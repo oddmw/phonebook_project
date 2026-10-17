@@ -1,0 +1,15 @@
+# Файлы с паролями и конфигами
+config_local.py
+*.env
+ 
+# Виртуальное окружение Python
+venv/
+__pycache__/
+ 
+# Файлы ОС
+.DS_Store
+Thumbs.db
+ 
+# IDE
+.vscode/
+.idea/
